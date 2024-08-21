@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P4sty
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning java/pyhton/html/css
+- 🌱 I’m currently learning java/python/html/css
 - 💞️ I’m looking to collaborate on open source projects some day
 - 📫 How to reach me ...
 
